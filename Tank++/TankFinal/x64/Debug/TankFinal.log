@@ -1,0 +1,9 @@
+﻿  Entity.cpp
+  GameProc.cpp
+D:\Dreamer\GitHub\TanK-Battl3\Tank++\TankFinal\GameProc.cpp(223,60): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Init.cpp
+  TankFinal.cpp
+D:\Dreamer\GitHub\TanK-Battl3\Tank++\TankFinal\TankFinal.cpp(188,18): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+  正在生成代码...
+Entity.obj : error LNK2019: 无法解析的外部符号 __imp_TransparentBlt，该符号在函数 "void __cdecl DrawEntity(struct HDC__ *,struct entity const *)" (?DrawEntity@@YAXPEAUHDC__@@PEBUentity@@@Z) 中被引用
+D:\Dreamer\GitHub\TanK-Battl3\Tank++\x64\Debug\TankFinal.exe : fatal error LNK1120: 1 个无法解析的外部命令
